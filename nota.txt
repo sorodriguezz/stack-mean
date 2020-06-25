@@ -1,1 +1,0 @@
-ver min 15 - MEAN Curso - Mongodb, Express, Angular 6 y Nodejs, Parte 2 - Frontend con Angular 6
